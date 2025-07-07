@@ -11,7 +11,7 @@ chs: "简体中文"
 
 ## パックカードリスト
 
-https://shadowverse-wb.com/web/CardSet/cardList?card_set_id=`{パックID}`
+https://shadowverse-wb.com/web/CardSet/cardList?card_set_id= `{パックID}`
 
 ```
 【パックID】
@@ -19,7 +19,7 @@ https://shadowverse-wb.com/web/CardSet/cardList?card_set_id=`{パックID}`
 10001   -> 伝説の幕開け
 ```
 ## カードリスト
-https://shadowverse-wb.com/web/CardList/cardList?offset=`{オフセット値}`&class=`{クラスID}`&cost={コストの値}
+https://shadowverse-wb.com/web/CardList/cardList?offset= `{オフセット値}` &class= `{クラスID}` &cost= `{コストの値}`
 
 ```
 【クラスID】
@@ -35,10 +35,10 @@ https://shadowverse-wb.com/web/CardList/cardList?offset=`{オフセット値}`&c
   
 
 ## カード情報
-https://shadowverse-wb.com/web/CardList/card?card_id={カードID}
+https://shadowverse-wb.com/web/CardList/card?card_id= `{カードID}`
 
 ## デッキ情報
-https://shadowverse-wb.com/web/DeckBuilder/deckHashDetail?hash={デッキハッシュ値}
+https://shadowverse-wb.com/web/DeckBuilder/deckHashDetail?hash= `{デッキハッシュ値}`
 
 太文字の部分
 https://shadowverse-wb.com/ja/deck/detail/?popular=1&hash=**`2.7.cQqE.cQqE.cQqE.cR0k.cR0k.cR2I.cR2I.cpBc.cpBc.cpBc.cpBw.cpBw.cpBw.cpEu.cpEu.cpEu.cpRE.cpRE.cpRO.cpRO.cpUW.cpUW.cpUW.cpgs.cpgs.cpgs.cph0.cph0.cph0.cphK.cphK.cphK.cpwU.cpwU.cpwe.cpwe.cpwe.cpwo.cpwo.cpwo`**
