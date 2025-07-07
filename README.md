@@ -41,7 +41,7 @@ https://shadowverse-wb.com/web/CardList/card?card_id= `{カードID}`
 https://shadowverse-wb.com/web/DeckBuilder/deckHashDetail?hash= `{デッキハッシュ値}`
 
 太文字の部分
-https://shadowverse-wb.com/ja/deck/detail/?popular=1&hash=**`2.7.cQqE.cQqE.cQqE.cR0k.cR0k.cR2I.cR2I.cpBc.cpBc.cpBc.cpBw.cpBw.cpBw.cpEu.cpEu.cpEu.cpRE.cpRE.cpRO.cpRO.cpUW.cpUW.cpUW.cpgs.cpgs.cpgs.cph0.cph0.cph0.cphK.cphK.cphK.cpwU.cpwU.cpwe.cpwe.cpwe.cpwo.cpwo.cpwo`**
+https://shadowverse-wb.com/ja/deck/detail/?popular=1&hash= **`2.7.cQqE.cQqE.cQqE.cR0k.cR0k.cR2I.cR2I.cpBc.cpBc.cpBc.cpBw.cpBw.cpBw.cpEu.cpEu.cpEu.cpRE.cpRE.cpRO.cpRO.cpUW.cpUW.cpUW.cpgs.cpgs.cpgs.cph0.cph0.cph0.cphK.cphK.cphK.cpwU.cpwU.cpwe.cpwe.cpwe.cpwo.cpwo.cpwo`**
 
 ハッシュ値の2.Xは`クラスID`
 cQqEのような値はカード1枚１枚を表してるがエンコード形式は不明
